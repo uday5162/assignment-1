@@ -1,4 +1,10 @@
-"# assignment-1" \n
-      #Neural Network  /n
-     Machine Learning   /n
+"# assignment-1" 
+     
+     
+     #Neural Network  
+     
+     
+     Machine Learning   
+
+
 Example of a  basic regression model
